@@ -1,4 +1,10 @@
-# JS Assignment
+# Fundamentals of Web Design - Assignment 4
+
+Name: Mukund Devang  
+Roll No: SAU/FET/BTECH(CSE)/2025/123
+Course: CSE 106  
+
+This repository contains solutions to Assignment 4 using basic JavaScript.
 
 ## Question 1
 Approach:
